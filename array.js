@@ -16,7 +16,19 @@ map()
 
 */
 
+/*
+
 filter()
+
+const myArray = [1,3,5,7,9]
+undefined
+myArray.filter(el => el > 4)
+Array(3) [ 5, 7, 9 ]
+
+myArray
+Array(5) [ 1, 3, 5, 7, 9 ]
+
+*/
 
 reduce()
 
